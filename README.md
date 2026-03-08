@@ -16,8 +16,6 @@
 
 ### 🛠 Tools & Technologies
 
-### 🛠 Tools & Technologies
-
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
