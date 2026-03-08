@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**sewarqudah003/sewarqudah003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sewar Qudah
 
-Here are some ideas to get you started:
+### AI & Data Analyst | RPA Developer | AI Data Analysis Trainer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor's degree in **Data Science & Artificial Intelligence**
+
+* 🤖 Experienced in **Robotic Process Automation (RPA)**
+* 📊 Working as **AI and Data Analysis Trainer**
+* 🧠 Interested in **Machine Learning, AI, and Data Analytics**
+* 💻 Building projects using **Python, Data Analysis, and Automation**
+
+---
+
+### 🛠 Languages and Tools
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,git,github,vscode,postgres,mysql" />
+</p>
+
+**Other Tools**
+
+- Excel
+- Power BI
+- Blue Prism (RPA)
+---
+
+### 📫 Contact Me
+
+* Email: sewarqudah003@email.com
+* LinkedIn: your-linkedin
