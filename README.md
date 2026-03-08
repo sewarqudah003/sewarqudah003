@@ -6,7 +6,7 @@
 
 🎓 Bachelor's degree in **Data Science & Artificial Intelligence**
 
-* 🤖 Experienced in **Robotic Process Automation (RPA)**
+* 🤖 Experienced in **Artificial Intelligence (AI)** | **Business Intelligence (BI)**|**Robotic Process Automation (RPA)** 
 * 📊 Working as **AI and Data Analysis Trainer**
 * 🧠 Interested in **Machine Learning, AI, and Data Analytics**
 * 💻 Building projects using **Python, Data Analysis, and Automation**
