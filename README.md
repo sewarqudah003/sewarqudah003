@@ -37,4 +37,4 @@
 ### 📫 Contact Me
 
 * Email: sewarqudah003@email.com
-* LinkedIn:linkedin.com/in/sewar-qudah-839a01331
+* LinkedIn: linkedin.com/in/sewar-qudah-839a01331
